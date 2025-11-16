@@ -9,3 +9,4 @@
   --path .
 8. I na koniec docker run --rm -e PORT=8000 -p 8000:8000 my-python-app
 9. Mozemy sprawdzic czy dziala pod http://127.0.0.1:8000
+10. Do wystawienia na heroku - heroku login; git push heroku main
