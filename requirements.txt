@@ -3,3 +3,4 @@ pyramid-jinja2
 pyramid-debugtoolbar
 faker
 uwsgi
+gunicorn
